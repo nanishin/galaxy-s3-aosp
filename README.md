@@ -12,4 +12,4 @@
     > https://android.googlesource.com/platform/prebuilt/+archive/6c89c6601a699707500003b782406482c4c3050b/linux-x86.tar.gz
 
 ## License
-* [GPLv2](https://github.com/nanishin/galaxy-s3-aosp/blob/master/COPYING)
+* [GPLv2](https://github.com/nanishin/galaxy-s3-aosp/blob/master/kernel/COPYING)
